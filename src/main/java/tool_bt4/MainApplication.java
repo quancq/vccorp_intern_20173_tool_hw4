@@ -1,4 +1,4 @@
-/* Chinh sua tren server may client */
+/* Chinh sua hop nhat giua server va client */
 package tool_bt4;
 
 import static spark.Spark.get;
